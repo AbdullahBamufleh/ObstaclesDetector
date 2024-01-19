@@ -21,4 +21,7 @@ this project type is plug and play, you just need sevral component:
 |       GND      | 220 ohm short |
 |     pin 6      |     buzzer    |
 
+## result
+[![result](https://img.youtube.com/vi/4xXysb0uXdU/0.jpg)](https://www.youtube.com/watch?v=4xXysb0uXdU)
+
 
